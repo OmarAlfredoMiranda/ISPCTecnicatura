@@ -2,5 +2,5 @@
 #Fecha: 08/05/2022
 #Descripcion: Prueba GitHub
 
-if__name__ "" "_main__*":
-    print("primer programa python")
+if __name__ == "_main__*":
+    print ("Primer Programa en Python")
