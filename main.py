@@ -2,13 +2,14 @@
 #Fecha: 08/05/2022
 #Descripcion: Prueba GitHub
 
-1
+
 
 def suma(a,b):
     return (a+b)
 
 def resta(a,b):
     return (a-b)
+
 
 def prod(a,b):
     return(a*b)    
@@ -22,3 +23,6 @@ print()
 print ("la resta es: ",str(resta(2,3)) )
 print()
 print("la prod es: ",str(prod(2,3)))
+
+
+
